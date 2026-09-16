@@ -1,0 +1,2 @@
+total_appointments,completed_appointments,no_shows,cancellations,no_show_rate,cancellation_rate,avg_wait_minutes
+15000,13368,1091,541,7.27,3.61,13.59

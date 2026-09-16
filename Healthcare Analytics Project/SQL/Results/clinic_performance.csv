@@ -1,0 +1,6 @@
+clinic,total_appointments,completed,no_shows,cancellations,completion_rate,no_show_rate,avg_wait_minutes
+South,3412,2995,283,134,87.78,8.29,16.44
+West,2762,2450,225,87,88.70,8.15,14.93
+Downtown,3535,3182,219,134,90.01,6.20,13.68
+East,2490,2221,180,89,89.20,7.23,11.91
+North,2801,2520,184,97,89.97,6.57,10.29

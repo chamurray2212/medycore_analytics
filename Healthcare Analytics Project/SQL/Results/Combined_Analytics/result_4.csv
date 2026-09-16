@@ -1,0 +1,5 @@
+appointment_type,total_appointments,avg_wait_minutes,no_show_rate
+New Patient,3264,17.41,8.33
+Established Patient,5583,12.59,6.90
+Follow-up,4321,12.58,7.87
+Procedure,1832,12.40,5.13

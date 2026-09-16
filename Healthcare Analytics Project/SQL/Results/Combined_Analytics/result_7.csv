@@ -1,0 +1,21 @@
+clinic,department,total_appointments,avg_wait,no_show_rate
+South,Cardiology,510,18.53,9.02
+South,Orthopedics,727,17.52,12.65
+West,Cardiology,414,16.76,8.94
+West,Orthopedics,577,16.13,7.45
+Downtown,Cardiology,525,15.81,8.38
+South,Primary Care,1405,15.70,6.33
+South,Physical Therapy,770,15.47,7.27
+Downtown,Orthopedics,788,14.83,6.85
+West,Primary Care,1115,14.12,7.80
+West,Physical Therapy,656,14.10,8.84
+East,Cardiology,375,13.87,8.80
+East,Orthopedics,539,13.16,5.94
+Downtown,Primary Care,1417,12.89,4.80
+North,Cardiology,456,12.64,6.14
+Downtown,Physical Therapy,805,12.59,6.58
+North,Orthopedics,635,11.10,6.61
+East,Physical Therapy,582,11.10,6.87
+East,Primary Care,994,10.96,7.55
+North,Physical Therapy,609,9.40,5.75
+North,Primary Care,1101,9.35,7.18

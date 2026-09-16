@@ -1,0 +1,30 @@
+CREATE TABLE appointments
+ (
+    appointment_id VARCHAR(20),
+    patient_id VARCHAR(20),
+    clinic VARCHAR(50),
+    department VARCHAR(50),
+    provider_id VARCHAR(20),
+    appointment_date DATE,
+    appointment_type VARCHAR(50),
+    scheduled_time TIMESTAMP,
+    check_in_time TIMESTAMP,
+    appointment_start TIMESTAMP,
+    appointment_end TIMESTAMP,
+    status VARCHAR(20),
+    cancellation_reason VARCHAR(100),
+    payer_type VARCHAR(30),
+    patient_age INTEGER,
+    days_between_scheduling INTEGER,
+    wait_time_minutes NUMERIC,
+    visit_duration_minutes NUMERIC,
+    day_of_week VARCHAR(20),
+    month VARCHAR(20),
+    quarter VARCHAR(5),
+    no_show_flag INTEGER,
+    cancellation_flag INTEGER,
+    completed_flag INTEGER,
+    late_arrival_flag INTEGER,
+    same_day_appointment_flag INTEGER
+);
+
